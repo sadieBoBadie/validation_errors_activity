@@ -13,5 +13,9 @@
     - Validate your code. Copy and paste the html into the validator.  
         - Go to: [W3C Markup Validation Service](https://validator.w3.org/#validate_by_input)
     - Take a screen shot of your errors and post it in our discord channel
-5. Clear as many errors as you can starting from the top before the time runs out.
+5. Clear/Fix as many errors as you can starting from the top before the time runs out.
 
+#### Bragging rights:
+- *Hawkeye: Least errors on first screenshot*  
+- *Black Widow: Most cleared errors*
+- *Banner: Trickiest problem in re-cap*
